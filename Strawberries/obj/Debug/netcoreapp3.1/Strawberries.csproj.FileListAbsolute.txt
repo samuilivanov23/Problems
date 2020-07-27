@@ -1,0 +1,11 @@
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.exe
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.deps.json
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.runtimeconfig.json
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.runtimeconfig.dev.json
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.dll
+E:\Intern\Strawberries\Strawberries\bin\Debug\netcoreapp3.1\Strawberries.pdb
+E:\Intern\Strawberries\Strawberries\obj\Debug\netcoreapp3.1\Strawberries.csprojAssemblyReference.cache
+E:\Intern\Strawberries\Strawberries\obj\Debug\netcoreapp3.1\Strawberries.AssemblyInfoInputs.cache
+E:\Intern\Strawberries\Strawberries\obj\Debug\netcoreapp3.1\Strawberries.AssemblyInfo.cs
+E:\Intern\Strawberries\Strawberries\obj\Debug\netcoreapp3.1\Strawberries.dll
+E:\Intern\Strawberries\Strawberries\obj\Debug\netcoreapp3.1\Strawberries.pdb
